@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '4139'
     url: http://www.gutenberg.org/2009/agents/4139
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18560#Chopin-and-Other-Musical-Essays
 gutenberg_bookshelf:
 - Germany
 - Music
