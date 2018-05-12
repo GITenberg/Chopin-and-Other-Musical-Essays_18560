@@ -1,0 +1,36 @@
+_repo: Chopin-and-Other-Musical-Essays_18560
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Finck, Henry T.
+    alias: Finck, Henry Theophilus
+    birthdate: 1854
+    deathdate: 1926
+    gutenberg_agent_id: '4139'
+    url: http://www.gutenberg.org/2009/agents/4139
+description: ''
+gutenberg_bookshelf:
+- Germany
+- Music
+gutenberg_issued: '2006-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18560'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chopin, Frédéric, 1810-1849'
+- !lcsh 'Music'
+- !lcc 'ML'
+- !lcsh 'Schumann, Robert, 1810-1856'
+- !lcsh 'Music -- History and criticism'
+tableOfContents: Chopin, the greatest genius of the pianoforte -- How composers work
+  -- Schumann, as mirrored in his letters -- Music and morals -- Italian and German
+  vocal styles -- German opera in New York.
+title: Chopin and Other Musical Essays
+url: http://www.gutenberg.org/ebooks/18560
